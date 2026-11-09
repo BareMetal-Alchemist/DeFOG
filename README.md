@@ -4,7 +4,7 @@ Lightweight Windows triage collector in Go: memory capture and live response art
 
 DeFOG is built for incident responders who need to grab volatile evidence from a Windows host quickly and consistently. It runs as one executable with no PowerShell, .NET or installer required, so it works on hosts where scripting is locked down or can't be trusted.
 
-> **Why "DeFOG"?** FOG comes from "eyes on glass," a phrase from the SOC where this tool started. DeFOG clears the fog on a compromised host.
+> **Why "DeFOG"?** FOG comes from "fleyes on glass," a phrase from the SOC where I work at. DeFOG clears the fog on a compromised host.
 
 ## Features
 
